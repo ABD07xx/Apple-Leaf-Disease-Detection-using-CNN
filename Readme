@@ -1,0 +1,4 @@
+Model trained on 6 diseases with healthy leaves as well
+Achieved a validation accuracy of 92%
+Deployed on Heruko
+Can be further improved by using object detection and classification of multiple diseases on same leaf
